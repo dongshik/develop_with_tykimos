@@ -11,14 +11,14 @@
     
     $ git push -u origin master
     
-    $ tochiro/haha***1
+    $ dongshik/haha***1
     
     $ Command line instructions
 
 2. Git global setup
     $ git config --global user.name "Dongsik Lee"
     
-    $ git config --global user.email "dongsik@hanwha.com"
+    $ git config --global user.email "dongshik.lee@gmail.com"
 
 3. Create a new repository
     $ git clone https://github.com/dongshik/develop_with_tykimos.git
