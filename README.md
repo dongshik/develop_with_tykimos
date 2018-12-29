@@ -6,9 +6,13 @@
 
 1. 기본적인 사용
     git add .
+    
     git commit -m "add total py"
+    
     git push -u origin master
+    
     tochiro/haha***1
+    
     Command line instructions
 
 2. Git global setup
